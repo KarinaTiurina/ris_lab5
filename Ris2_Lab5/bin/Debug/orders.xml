@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order>
+    <Id>1</Id>
+    <BikeId>1</BikeId>
+    <StartTime>18.10.2018 10:00</StartTime>
+    <HoursCount>2</HoursCount>
+  </Order>
+  <Order>
+    <Id>2</Id>
+    <BikeId>3</BikeId>
+    <StartTime>2018-10-31T10:00:00</StartTime>
+    <HoursCount>2</HoursCount>
+  </Order>
+</Orders>

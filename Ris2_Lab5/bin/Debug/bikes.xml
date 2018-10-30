@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Items>
+	<Bike>
+		<Id>1</Id>
+		<Model>Aist 300</Model>
+		<Type>городской</Type>
+		<PersonAge>взрослый</PersonAge>
+		<Available>true</Available>
+		<TakeTime></TakeTime>
+	</Bike>
+	<Bike>
+		<Id>2</Id>
+		<Model>Aist 301</Model>
+		<Type>горный</Type>
+		<PersonAge>взрослый</PersonAge>
+		<Available>true</Available>
+		<TakeTime></TakeTime>
+	</Bike>
+	<Bike>
+		<Id>3</Id>
+		<Model>Format 8888</Model>
+		<Type>горный</Type>
+		<PersonAge>взрослый</PersonAge>
+		<Available>true</Available>
+		<TakeTime></TakeTime>
+	</Bike>
+	<Bike>
+		<Id>4</Id>
+		<Model>Format 100</Model>
+		<Type>складной</Type>
+		<PersonAge>детский</PersonAge>
+		<Available>true</Available>
+		<TakeTime></TakeTime>
+	</Bike>
+	<Bike>
+		<Id>5</Id>
+		<Model>Format 102</Model>
+		<Type>складной</Type>
+		<PersonAge>детский</PersonAge>
+		<Available>true</Available>
+		<TakeTime></TakeTime>
+	</Bike>  
+</Items>

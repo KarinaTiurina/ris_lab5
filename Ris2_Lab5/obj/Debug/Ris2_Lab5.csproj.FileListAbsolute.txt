@@ -1,0 +1,5 @@
+c:\users\админ\documents\visual studio 2013\Projects\Ris2_Lab5\Ris2_Lab5\bin\Debug\Ris2_Lab5.exe.config
+c:\users\админ\documents\visual studio 2013\Projects\Ris2_Lab5\Ris2_Lab5\bin\Debug\Ris2_Lab5.exe
+c:\users\админ\documents\visual studio 2013\Projects\Ris2_Lab5\Ris2_Lab5\bin\Debug\Ris2_Lab5.pdb
+c:\users\админ\documents\visual studio 2013\Projects\Ris2_Lab5\Ris2_Lab5\obj\Debug\Ris2_Lab5.exe
+c:\users\админ\documents\visual studio 2013\Projects\Ris2_Lab5\Ris2_Lab5\obj\Debug\Ris2_Lab5.pdb
